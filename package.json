@@ -43,7 +43,7 @@
     "location-bar": "3.0.1",
     "lodash": "4.17.21",
     "mini-css-extract-plugin": "2.6.1",
-    "moment": "2.29.4",
+    "moment": "2.30.1",
     "moment-duration-format": "2.3.2",
     "moment-timezone": "0.5.38",
     "nyc": "15.1.0",
