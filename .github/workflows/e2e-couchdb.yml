@@ -29,10 +29,10 @@ jobs:
       - run: npm run test:e2e:couchdb
       - run: ls -latr
       - name: Archive test results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: test-results
       - name: Archive html test results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: html-test-results
